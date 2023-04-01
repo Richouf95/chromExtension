@@ -1,0 +1,17 @@
+{
+    "manifest_version": 3,
+  "name": "extension codeloccol",
+  "version": "0.10" ,
+  
+  "action": {
+    "default_icon": {              
+        "72": "icon.png"
+    },
+    "default_title": "Click Me",  
+    "default_popup": "popup.html" 
+  },
+  
+  "icons": { "72": "icon.png"
+     }
+     
+} 
